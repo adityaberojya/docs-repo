@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: handson
+  description: handson
+  annotations:
+    github.com/project-slug: adityaberojya/docs-repo
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: adityyyya
