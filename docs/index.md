@@ -1,3 +1,12 @@
+This is Backstage POC generation doc. We can edit this file on every subsequent change to our service.
+
+
+
+
+
+
+
+
 ## ${{ values.name }}
 
 ${{ values.description }}
