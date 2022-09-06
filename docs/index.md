@@ -17,7 +17,7 @@ Rishi Kumar
 
 
 
-## ${{ values.name }}
+Getting Started
 
 ${{ values.description }}
 
