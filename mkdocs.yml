@@ -1,8 +1,8 @@
 site_name: 'example-docs'
 
 nav:
-  - Home: index1.txt
-  - Intro: index.md
+  - Home: index.md
+  - Intro: document.txt
   - Pictureinmdoflion: pic.md
   - Picture: lion.jpg
 
