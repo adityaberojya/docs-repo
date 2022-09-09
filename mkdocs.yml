@@ -2,9 +2,12 @@ site_name: 'example-docs'
 
 nav:
   - Home: index.md
-  - Intro: document.txt
-  - Pictureinmdoflion: pic.md
-  - Picture: lion.jpg
+  - Page-1: Page-1.md
+  - Page-2: Page-2.md
+  - Page-3: Page-3.md
+  - Page-4: Page-4.md
+  - Page-5: Page-5.md
+  
 
 plugins:
   - techdocs-core
