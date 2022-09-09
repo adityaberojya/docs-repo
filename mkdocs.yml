@@ -2,7 +2,7 @@ site_name: 'example-docs'
 
 nav:
   - Home: index1.txt
-  - Picture: lion.png
+  - Picture: lion.jpg
 
 plugins:
   - techdocs-core
