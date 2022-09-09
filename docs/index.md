@@ -1,3 +1,4 @@
+#Page1
 This is Backstage POC generation doc. We can edit this file on every subsequent change to our service.
 Date- 08/09/22
 Team name-
@@ -66,7 +67,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
 
 
-#Repeat 2
+#Page 2
 This is Backstage POC generation doc. We can edit this file on every subsequent change to our service.
 Date- 08/09/22
 Team name-
