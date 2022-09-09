@@ -2,6 +2,8 @@ site_name: 'example-docs'
 
 nav:
   - Home: index1.txt
+  - Intro: index.md
+  - Pictureinmdoflion: pic.md
   - Picture: lion.jpg
 
 plugins:
