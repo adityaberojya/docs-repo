@@ -2,3 +2,6 @@
 <!-- <img data-zoomable src="lion.jpg" alt="This is image" /> -->
 
 ![lion pic out of docu](lion.jpg)
+
+![peacock](Images/female_peacock.jpg)
+![cheetahhh](Images/chee-tah.png)
